@@ -1,5 +1,5 @@
 '''
-This program is designed to convert google forms submitted answers to a latex book of abstracts.
+This program is designed to convert google forms submitted answers to a latex book of abstracts for cytoskeletal club.
 
 
 Petr Kurka

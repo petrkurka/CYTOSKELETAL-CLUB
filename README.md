@@ -4,8 +4,8 @@ INPUT
 * .csv file from google forms
 
 OUTPUT
-* structure.tex    // latex formatting info
-* main.tex         // main file containing the latex output
+* structure.tex  // latex formatting info
+* main.tex       // main file containing the latex output
 
 
 Petr Kurka for UFE

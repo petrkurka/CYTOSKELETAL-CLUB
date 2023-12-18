@@ -6,3 +6,7 @@ INPUT
 OUTPUT
 * structure.tex   // latex formatting info
 * main.tex        // main file containing the latex output
+
+
+Petr Kurka for UFE
+20.06.2023

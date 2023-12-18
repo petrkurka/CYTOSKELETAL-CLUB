@@ -5,7 +5,7 @@ INPUT
 
 OUTPUT
 * structure.tex  // latex formatting info
-* main.tex       // main file containing the latex output
+* main.tex       // main file containing the latex output - compile this file
 
 
 
